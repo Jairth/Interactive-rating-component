@@ -108,6 +108,7 @@ body {
   width: 2.8rem;
   height: 2.8rem;
   border-radius: 50%;
+  border: none;
   cursor: pointer;
   display: flex;
   justify-content: center;
@@ -117,6 +118,7 @@ body {
 
 .span:focus {
   background: hsl(217, 12%, 63%);
+  color: white;
 }
 
 .span:hover {
